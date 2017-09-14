@@ -97,7 +97,7 @@
     "redux-observable": "^0.16.0",
     "redux-thunk": "^2.2.0",
     "rxjs": "^5.4.3",
-    "serve": "^6.0.6",
+    "serve": "^6.1.0",
     "simple-color-scale": "^1.0.1",
     "simplegrid": "^1.0.2",
     "skeleton-less": "^2.0.1",
