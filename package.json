@@ -81,7 +81,7 @@
     "history": "^4.7.2",
     "jssha": "^2.3.1",
     "leaflet": "^1.2.0",
-    "leaflet.gridlayer.googlemutant": "^0.6.2",
+    "leaflet.gridlayer.googlemutant": "^0.6.3",
     "preact": "^8.2.5",
     "preact-compat": "^3.17.0",
     "preact-i18nline": "^1.5.0",
