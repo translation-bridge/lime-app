@@ -10,10 +10,13 @@
 	"internet_connection_fda60ffa": "Internet forbindelse",
 	"ip_addresses_440ac240": "IP-adresser",
 	"notes_c42e0fd5": "Bemærkninger",
+	"save_notes_616850ea": "Gem bemærkninger",
 	"station_75bce853": "Station",
 	"stations_18122820": "Stationer",
 	"status_e7fdbe06": "Status",
 	"system_55b0ca91": "System",
 	"to_internet_494eb85c": "Til internet",
-	"traffic_bfe536d2": "Trafik"
+	"traffic_bfe536d2": "Trafik",
+	"try_thisnode_info_1ee1bfe2": "Prøv thisnode.info",
+	"uptime_c1d2415d": "Oppetid"
 }
