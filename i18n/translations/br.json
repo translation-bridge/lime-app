@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"align_11050992": "Steudañ",
+	"back_to_base_443797cb": "Distreiñ d'an diaz",
+	"base_host_a17d45a4": "Ostiz diazez",
+	"change_dcaa253a": "Kemmañ",
+	"connected_host_91e11459": "Ostiz kevreet",
+	"config_4877f466": "Kefluniañ",
+	"current_status_830c5a75": "Statud a vremañ",
+	"from_fdd4956d": "Eus",
+	"full_path_metrics_2859608f": "Menegerioù hentoù klok",
+	"interface_177dac54": "Etrefas",
+	"internet_connection_fda60ffa": "Kevreadur ouzh ar Genrouedad",
+	"ip_addresses_440ac240": "Chomlec'hioù IP",
+	"load_last_known_internet_path_677f6229": "Kargañ an hent Kenrouedad diwezhañ anavezet",
+	"loading_node_status_547ed318": "Pellgargañ stad ar skoulm...",
+	"locate_5f6685db": "Lec'hiañ",
+	"metrics_c80fba05": "Metrek",
+	"metrics_status_gateway_2a77a113": "Klask an dreuzell",
+	"metrics_status_path_905a8d22": "O jediñ an hent rouedad",
+	"metrics_status_stations_464641e8": "Muzul al liammoù",
+	"most_active_2d5a3cae": "Ar re oberiantañ",
+	"move_to_new_position_eb97c4c3": "KAS D'UL LEC'HIADUR NEVEZ",
+	"notes_c42e0fd5": "Notennoù",
+	"notes_of_a44a4158": "Notennoù war",
+	"only_gateway_727b1656": "An dreuzell hepken",
+	"packet_loss_1afe48a8": "Koll pakadoù",
+	"save_notes_616850ea": "Saveteiñ an notennoù",
+	"status_e7fdbe06": "Statud",
+	"system_55b0ca91": "Reizhiad",
+	"to_internet_494eb85c": "War-zu ar Genrouedad",
+	"traffic_bfe536d2": "Tremenerezh",
+	"connection_fail_57f84354": "C'hwitet eo ar c'hevreadur ouzh %{meta_ws} fail",
+	"trying_to_connect_ff82bf9f": "Klask kevreañ ouzh %{meta_ws}",
+	"try_thisnode_info_1ee1bfe2": "Esaeañ thisnode.info",
+	"uptime_c1d2415d": "Pad mont en-dro",
+	"interfaces_44f8a99c": "Etrefasoù"
+}
