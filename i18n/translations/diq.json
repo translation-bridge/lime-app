@@ -38,6 +38,9 @@
 	"system_55b0ca91": "Sistem",
 	"to_internet_494eb85c": "İnternet de",
 	"traffic_bfe536d2": "Trafik",
+	"connection_fail_57f84354": "%{meta_ws} ya irtibat nêkewiya",
+	"trying_to_connect_ff82bf9f": "%{meta_ws} ya irtibati rê guriyeno",
 	"try_thisnode_info_1ee1bfe2": "thisnode.infoy bıcerrebne",
-	"uptime_c1d2415d": "Demê gurenayışi"
+	"uptime_c1d2415d": "Demê gurenayışi",
+	"interfaces_44f8a99c": "Nabeynrıyi"
 }
