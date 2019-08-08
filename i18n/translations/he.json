@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erelon",
+			"YaronSh"
+		]
+	},
+	"align_11050992": "יישור",
+	"back_to_base_443797cb": "חזרה לבסיס",
+	"base_host_a17d45a4": "מארח בסיס",
+	"change_dcaa253a": "החלפה",
+	"connected_host_91e11459": "מארח מחובר",
+	"config_4877f466": "הגדרות",
+	"current_status_830c5a75": "מצב נוכחי",
+	"from_fdd4956d": "מאת",
+	"full_path_metrics_2859608f": "מדדי נתיב מלא",
+	"interface_177dac54": "ממשק",
+	"internet_connection_fda60ffa": "חיבור לאינטרנט",
+	"ip_addresses_440ac240": "כתובות IP",
+	"load_last_known_internet_path_677f6229": "לטעון את נתיב האינטרנט האחרון הידוע",
+	"locate_5f6685db": "איתור",
+	"metrics_c80fba05": "מדדים",
+	"metrics_status_gateway_2a77a113": "מתבצע איתור שער גישה",
+	"metrics_status_path_905a8d22": "נתיב הרשת בחישוב",
+	"metrics_status_stations_464641e8": "הקישורים נמדדים",
+	"most_active_2d5a3cae": "הפעיל ביותר",
+	"move_to_new_position_eb97c4c3": "העברה למיקום חדש",
+	"notes_c42e0fd5": "הערות"
+}
