@@ -25,5 +25,18 @@
 	"metrics_status_stations_464641e8": "הקישורים נמדדים",
 	"most_active_2d5a3cae": "הפעיל ביותר",
 	"move_to_new_position_eb97c4c3": "העברה למיקום חדש",
-	"notes_c42e0fd5": "הערות"
+	"notes_c42e0fd5": "הערות",
+	"packet_loss_1afe48a8": "אבדן תעבורה",
+	"save_notes_616850ea": "שמירת הערות",
+	"select_new_base_station_3652ae73": "בחירת תחנת בסיס חדשה",
+	"station_75bce853": "תחנה",
+	"stations_18122820": "תחנות",
+	"status_e7fdbe06": "מצב",
+	"system_55b0ca91": "מערכת",
+	"to_internet_494eb85c": "לאינטרנט",
+	"traffic_bfe536d2": "תעבורה",
+	"connection_fail_57f84354": "החיבור אל %{meta_ws} נכשל",
+	"trying_to_connect_ff82bf9f": "מתבצע ניסיון להתחבר אל %{meta_ws}",
+	"uptime_c1d2415d": "זמן פעילות",
+	"interfaces_44f8a99c": "מנשקים"
 }
