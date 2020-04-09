@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"align_11050992": "Poravnaj",
 	"back_to_base_443797cb": "Nazad u bazu",
 	"base_host_a17d45a4": "Host baze",
