@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Fulup",
 			"Gwenn-Ael"
 		]
 	},
@@ -30,6 +31,9 @@
 	"only_gateway_727b1656": "An dreuzell hepken",
 	"packet_loss_1afe48a8": "Koll pakadoù",
 	"save_notes_616850ea": "Saveteiñ an notennoù",
+	"select_new_base_station_3652ae73": "Diuzañ ur savenn ziazez nevez",
+	"station_75bce853": "Savenn",
+	"stations_18122820": "Savennoù",
 	"status_e7fdbe06": "Statud",
 	"system_55b0ca91": "Reizhiad",
 	"to_internet_494eb85c": "War-zu ar Genrouedad",
