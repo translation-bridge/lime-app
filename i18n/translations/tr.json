@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"BaRaN6161 TURK",
 			"Hedda"
 		]
 	},
@@ -27,7 +28,7 @@
 	"move_to_new_position_eb97c4c3": "YENİ KONUMA TAŞI",
 	"notes_c42e0fd5": "Notlar",
 	"notes_of_a44a4158": "Şunun için not:",
-	"only_gateway_727b1656": "Sadece ağ geçidi",
+	"only_gateway_727b1656": "Yalnızca ağ geçidi",
 	"packet_loss_1afe48a8": "Paket kaybı",
 	"save_notes_616850ea": "Notları kaydet",
 	"select_new_base_station_3652ae73": "Yeni baz istasyonu seç",
