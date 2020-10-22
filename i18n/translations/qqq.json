@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"MuratTheTurkish",
 			"Nike",
 			"Robby"
 		]
@@ -13,7 +14,7 @@
 	"current_status_830c5a75": "Section title on app status screen. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/09-current-status-select-new-change.png|Screenshot.]]",
 	"from_fdd4956d": "Label for node/station name. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/07-from-calculating-network-path.png|Screenshot 1]], [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/10-from-searching-gateway.png|Screenshot 2.]]",
 	"full_path_metrics_2859608f": "Button label on trace-route screen to access more detailed metrics about path to Internet. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/12-bottom-node-list.png|Screenshot.]]",
-	"interface_177dac54": "Label for interface name on node status screen, followed by wlan0 or eth1 or similar. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/03-node-info-1.png|Screenshot.]]",
+	"interface_177dac54": "Label for interface name on node status screen, followed by wlan0 or eth1 or similar. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/03-node-info-1.png|Screenshot.]]\n{{Identical|interface}}",
 	"internet_connection_fda60ffa": "Section title on node status screen and trace-route screen, followed by a list of connection types (IPv4, IPv6, DNS) with a check or X next to each. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/03-node-info-1.png|Screenshot 1]], [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/12-bottom-node-list.png|Screenshot 2.]]",
 	"ip_addresses_440ac240": "Section title on node status screen. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/03-node-info-1.png|Screenshot.]]",
 	"loading_node_status_547ed318": "Message shown while waiting for node status to load. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/13-loading-node-status.png|Screenshot.]]",
@@ -37,5 +38,5 @@
 	"trying_to_connect_ff82bf9f": "Message shown while attempting to connect to an address. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/02-trying-thisnode.png|Screenshot.]]",
 	"try_thisnode_info_1ee1bfe2": "Button label for button that appears when connections to external addresses fail. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/00-connection-fail-try-thisnode.png|Screenshot.]]",
 	"uptime_c1d2415d": "Item label on node status screen, followed by amount of time in days:hours:minutes:seconds. [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/03-node-info-1.png|Screenshot.]]",
-	"interfaces_44f8a99c": "Label before dropdown menu. NEED CONTEXT CLARIFICATION [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/04-interfaces-stations.png|Screenshot.]]"
+	"interfaces_44f8a99c": "Label before dropdown menu. NEED CONTEXT CLARIFICATION [[https://raw.githubusercontent.com/libremesh/lime-app/screenshots/04-interfaces-stations.png|Screenshot.]]\n{{Identical|interface}}"
 }
