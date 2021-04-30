@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
@@ -12,6 +13,7 @@
 	"config_4877f466": "Konfig",
 	"current_status_830c5a75": "Nuvarande status",
 	"from_fdd4956d": "Från",
+	"full_path_metrics_2859608f": "Fullständigt sökvägsmått",
 	"interface_177dac54": "Gränssnitt",
 	"internet_connection_fda60ffa": "Internetanslutning",
 	"ip_addresses_440ac240": "IP-adresser",
