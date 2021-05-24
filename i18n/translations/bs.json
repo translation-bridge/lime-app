@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Palapa"
+		]
+	},
+	"align_11050992": "Poravnaj",
+	"back_to_base_443797cb": "Nazad u bazu",
+	"base_host_a17d45a4": "Host baze",
+	"change_dcaa253a": "Promijeni",
+	"connected_host_91e11459": "Povezani host",
+	"config_4877f466": "Konfiguracija",
+	"current_status_830c5a75": "Trenutni status",
+	"from_fdd4956d": "Od",
+	"full_path_metrics_2859608f": "Cijela putanja metrike",
+	"interface_177dac54": "Sučelje",
+	"internet_connection_fda60ffa": "Internet konekcija",
+	"ip_addresses_440ac240": "IP adrese",
+	"load_last_known_internet_path_677f6229": "Učitajte posljednju poznatu internetsku putanju",
+	"loading_node_status_547ed318": "Učitavanje statusa čvora…",
+	"locate_5f6685db": "Pronađi",
+	"metrics_c80fba05": "Metrike",
+	"metrics_status_gateway_2a77a113": "Pretraživanje mrežnog prolaza",
+	"metrics_status_path_905a8d22": "Izračunavanje mrežne putanje",
+	"metrics_status_stations_464641e8": "Mjerenje veza",
+	"most_active_2d5a3cae": "Najaktivniji",
+	"move_to_new_position_eb97c4c3": "PREMJESTI NA NOVU POZICIJU",
+	"notes_c42e0fd5": "Bilješke",
+	"notes_of_a44a4158": "Bilješke o",
+	"only_gateway_727b1656": "Jedini prolaz",
+	"packet_loss_1afe48a8": "Gubitak paketa",
+	"save_notes_616850ea": "Sačuvaj bilješke",
+	"select_new_base_station_3652ae73": "Izaberite novu baznu stanicu",
+	"station_75bce853": "Stanica",
+	"stations_18122820": "Stanice",
+	"status_e7fdbe06": "Status",
+	"system_55b0ca91": "Sistem",
+	"to_internet_494eb85c": "Na Internet",
+	"traffic_bfe536d2": "Saobraćaj",
+	"connection_fail_57f84354": "Veza sa %{meta_ws} nije uspela",
+	"uptime_c1d2415d": "Uptime",
+	"interfaces_44f8a99c": "Sučelja"
+}
