@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marwan Mohamad"
+		]
+	},
+	"align_11050992": "Mopotulidu",
+	"back_to_base_443797cb": "Mohuwalingo ode bubu'a",
+	"base_host_a17d45a4": "Bubu'a Host",
+	"change_dcaa253a": "Boli'a",
+	"connected_host_91e11459": "Wuwumbuta ode Host",
+	"config_4877f466": "Konfigurasi",
+	"current_status_830c5a75": "Status masatiya",
+	"from_fdd4956d": "Lonto",
+	"full_path_metrics_2859608f": "Jalur metrik ganapu",
+	"interface_177dac54": "Antarmuka",
+	"internet_connection_fda60ffa": "Wumbuta lo Internet",
+	"ip_addresses_440ac240": "Alamat IP",
+	"load_last_known_internet_path_677f6229": "Detohe jalur Internet pulitiyo u otawa",
+	"locate_5f6685db": "Bilulo'a",
+	"metrics_c80fba05": "Metrik",
+	"metrics_status_gateway_2a77a113": "Mololohe bubunggalo",
+	"metrics_status_stations_464641e8": "Molu'ude wumbuta",
+	"most_active_2d5a3cae": "Aktif da'a",
+	"move_to_new_position_eb97c4c3": "HEYIYA ODE POSISI BOHU",
+	"notes_c42e0fd5": "Tuladu",
+	"notes_of_a44a4158": "Tuladu meyalo",
+	"only_gateway_727b1656": "Bo bubunggalo",
+	"packet_loss_1afe48a8": "Paket yiloli",
+	"save_notes_616850ea": "Tahuwa tuladu",
+	"select_new_base_station_3652ae73": "Tulawota base station bohu",
+	"station_75bce853": "Station",
+	"stations_18122820": "Stations",
+	"status_e7fdbe06": "Status",
+	"system_55b0ca91": "Sistim",
+	"to_internet_494eb85c": "Ode Internet",
+	"traffic_bfe536d2": "Trafik",
+	"connection_fail_57f84354": "Mohumbuta ode %{meta_ws} tilala",
+	"trying_to_connect_ff82bf9f": "Mohimontalo mohumbuta ode %{meta_ws}",
+	"try_thisnode_info_1ee1bfe2": "Yimontali thisnode.info",
+	"uptime_c1d2415d": "Wakutu aktif",
+	"interfaces_44f8a99c": "Antarmuka"
+}
