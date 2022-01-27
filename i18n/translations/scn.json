@@ -4,15 +4,20 @@
 			"Ajeje Brazorf"
 		]
 	},
+	"align_11050992": "Arringa",
 	"change_dcaa253a": "Cancia",
+	"config_4877f466": "Cunfigurazzioni",
 	"current_status_830c5a75": "Statu attuali",
 	"interface_177dac54": "Ntirfaccia",
 	"ip_addresses_440ac240": "Nnirizzi IP",
 	"most_active_2d5a3cae": "Cchiù attivi",
 	"notes_c42e0fd5": "Noti",
 	"notes_of_a44a4158": "Noti di",
+	"save_notes_616850ea": "Sarva li noti",
 	"station_75bce853": "Stazzioni",
 	"stations_18122820": "Stazziona",
 	"status_e7fdbe06": "Statu",
-	"system_55b0ca91": "Sistema"
+	"system_55b0ca91": "Sistema",
+	"uptime_c1d2415d": "Tempu d'attività",
+	"interfaces_44f8a99c": "Ntirfacci"
 }
