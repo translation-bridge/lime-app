@@ -14,7 +14,7 @@
 	"current_status_830c5a75": "Weziyeto nıkayên",
 	"from_fdd4956d": "Rıştoğ",
 	"full_path_metrics_2859608f": "Metrikê raya tame",
-	"interface_177dac54": "Interface",
+	"interface_177dac54": "Miyanri",
 	"internet_connection_fda60ffa": "Gırebiyayışê interneti",
 	"ip_addresses_440ac240": "Adresa IPyi",
 	"load_last_known_internet_path_677f6229": "Raya internetiya peyêna zaniyayiye bar ke",
@@ -42,5 +42,5 @@
 	"trying_to_connect_ff82bf9f": "%{meta_ws} ra irtıbati rê guriyeno",
 	"try_thisnode_info_1ee1bfe2": "thisnode.infoy bıcerrebne",
 	"uptime_c1d2415d": "Demê gurenayışi",
-	"interfaces_44f8a99c": "Mabeynriyi"
+	"interfaces_44f8a99c": "Miyanriyi"
 }
