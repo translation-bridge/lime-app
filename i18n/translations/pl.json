@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luku123",
+			"Rail"
+		]
+	},
+	"align_11050992": "Wyrównaj",
+	"back_to_base_443797cb": "Powrót do bazy",
+	"change_dcaa253a": "Zmień",
+	"connected_host_91e11459": "Połączony host",
+	"config_4877f466": "Konfiguracja",
+	"current_status_830c5a75": "Aktualny status",
+	"from_fdd4956d": "Z",
+	"interface_177dac54": "Interfejs",
+	"internet_connection_fda60ffa": "Połączenie z internetem",
+	"ip_addresses_440ac240": "Adresy IP",
+	"loading_node_status_547ed318": "Ładowanie stanu węzła...",
+	"locate_5f6685db": "Zlokalizuj",
+	"most_active_2d5a3cae": "Najaktywniejszy",
+	"move_to_new_position_eb97c4c3": "PRZENIEŚ DO NOWEJ POZYCJI",
+	"notes_c42e0fd5": "Notatki",
+	"notes_of_a44a4158": "Notatki z",
+	"save_notes_616850ea": "Zapisz notatki",
+	"station_75bce853": "Stacja",
+	"status_e7fdbe06": "Status",
+	"system_55b0ca91": "System",
+	"traffic_bfe536d2": "Ruch"
+}
