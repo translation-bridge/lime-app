@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"change_dcaa253a": "Änneren",
@@ -11,8 +12,10 @@
 	"notes_of_a44a4158": "Notizen iwwer",
 	"station_75bce853": "Statioun",
 	"stations_18122820": "Statiounen",
+	"status_e7fdbe06": "Status",
 	"system_55b0ca91": "System",
 	"to_internet_494eb85c": "Op den Internet",
 	"traffic_bfe536d2": "Trafic",
+	"try_thisnode_info_1ee1bfe2": "Probéiert thisnode.info",
 	"interfaces_44f8a99c": "Interfacen"
 }
