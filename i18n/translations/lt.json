@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"align_11050992": "Lygiuoti",
+	"change_dcaa253a": "Keisti",
+	"config_4877f466": "Konfigūracija",
+	"current_status_830c5a75": "Dabartinė būsena",
+	"from_fdd4956d": "Iš",
+	"full_path_metrics_2859608f": "Viso kelio metrika",
+	"interface_177dac54": "Sąsaja",
+	"internet_connection_fda60ffa": "Interneto ryšys",
+	"ip_addresses_440ac240": "IP adresai",
+	"load_last_known_internet_path_677f6229": "Įkelti paskutinį žinomą interneto kelią",
+	"locate_5f6685db": "Rasti",
+	"metrics_c80fba05": "Metrika",
+	"metrics_status_path_905a8d22": "Skaičiuojamas tinklo kelias",
+	"most_active_2d5a3cae": "Aktyviausias",
+	"move_to_new_position_eb97c4c3": "PERKELTI Į NAUJĄ POZICIJĄ",
+	"notes_c42e0fd5": "Pastabos",
+	"notes_of_a44a4158": "Pastabos apie",
+	"packet_loss_1afe48a8": "Paketų praradimas",
+	"save_notes_616850ea": "Išsaugoti pastabas",
+	"station_75bce853": "Stotis",
+	"stations_18122820": "Stotys",
+	"status_e7fdbe06": "Būsena",
+	"system_55b0ca91": "Sistema",
+	"to_internet_494eb85c": "Į internetą",
+	"traffic_bfe536d2": "Eismas",
+	"connection_fail_57f84354": "Nepavyko prisijungti prie %{meta_ws}",
+	"trying_to_connect_ff82bf9f": "Bandoma prisijungti prie %{meta_ws}",
+	"try_thisnode_info_1ee1bfe2": "Pabandykite thisnode.info",
+	"uptime_c1d2415d": "Veikimo laikas",
+	"interfaces_44f8a99c": "Sąsajos"
+}
