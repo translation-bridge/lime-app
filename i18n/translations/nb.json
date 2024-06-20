@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"EdoAug",
 			"Kingu"
 		]
 	},
@@ -17,7 +18,7 @@
 	"internet_connection_fda60ffa": "Internettilkobling",
 	"ip_addresses_440ac240": "IP-adresser",
 	"load_last_known_internet_path_677f6229": "Last ned sist kjente internettsti",
-	"loading_node_status_547ed318": "Laster inn nodestatus…",
+	"loading_node_status_547ed318": "Laster inn nodestatus …",
 	"locate_5f6685db": "Finn",
 	"metrics_c80fba05": "Data",
 	"metrics_status_gateway_2a77a113": "Søker etter portner",
